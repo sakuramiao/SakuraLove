@@ -1,0 +1,259 @@
+YINGMO_FOOD_SAKURA_CAKE:
+  item_group: YINGMO_SH
+  item:
+    name: '&d樱花蛋糕'
+    lore:
+    - '&7甜美芬芳的樱花糕点'
+    - '&7食用后获得速度提升'
+    material_type: mc
+    material: PUMPKIN_PIE
+  script: "sakura_cake"
+  nutrition: 8
+  saturation: 0.8
+  eatseconds: 1.6
+  recipe_type: YINGMO_WORKBENCH
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 4
+    '2':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 2
+    '3':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 4
+    '4':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 2
+    '5':
+      material_type: mc
+      material: EGG
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 2
+    '7':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 4
+    '8':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 2
+    '9':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 4
+
+YINGMO_FOOD_CRYSTAL_CANDY:
+  item_group: YINGMO_SH
+  item:
+    name: '&b粉晶糖果'
+    lore:
+    - '&7晶莹剔透的甜蜜糖果'
+    - '&7食用后获得急迫效果'
+    material_type: mc
+    material: HONEY_BOTTLE
+  script: "crystal_candy"
+  nutrition: 4
+  saturation: 0.6
+  eatseconds: 1.6
+  recipe_type: YINGMO_WORKBENCH
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 2
+    '2':
+      material_type: slimefun
+      material: YINGMO_NINGYING_GANG
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 2
+    '4':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+    '5':
+      material_type: mc
+      material: SUGAR
+      amount: 2
+    '6':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 2
+    '8':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 2
+
+YINGMO_FOOD_FOAM_JUICE:
+  item_group: YINGMO_SH
+  item:
+    name: '&f沫泡果汁'
+    lore:
+    - '&7清爽可口的果汁饮品'
+    - '&7食用后获得生命再生'
+    material_type: mc
+    material: BEETROOT_SOUP
+  script: "foam_juice"
+  nutrition: 6
+  saturation: 0.7
+  eatseconds: 1.6
+  recipe_type: YINGMO_WORKBENCH
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_JINGBAI
+      amount: 2
+    '2':
+      material_type: slimefun
+      material: YINGMO_JINGBAI
+      amount: 2
+    '3':
+      material_type: slimefun
+      material: YINGMO_JINGBAI
+      amount: 2
+    '4':
+      material_type: slimefun
+      material: YINGMO_JINGBAI
+      amount: 1
+    '5':
+      material_type: mc
+      material: SWEET_BERRIES
+      amount: 3
+    '6':
+      material_type: slimefun
+      material: YINGMO_JINGBAI
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_JINGBAI
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: YINGMO_JINGBAI
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_JINGBAI
+      amount: 1
+
+YINGMO_FOOD_STAR_DEW:
+  item_group: YINGMO_SH
+  item:
+    name: '&d星沫甘露'
+    lore:
+    - '&7蕴含星沫精华的甘露'
+    - '&7食用后获得夜视和跳跃提升'
+    material_type: mc
+    material: MILK_BUCKET
+  script: "star_dew"
+  nutrition: 10
+  saturation: 1.2
+  eatseconds: 1.6
+  recipe_type: YINGMO_WORKBENCH
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_XINGMO
+      amount: 2
+    '2':
+      material_type: slimefun
+      material: YINGMO_XINGMO
+      amount: 2
+    '3':
+      material_type: slimefun
+      material: YINGMO_XINGMO
+      amount: 2
+    '4':
+      material_type: slimefun
+      material: YINGMO_XINGMO
+      amount: 2
+    '5':
+      material_type: mc
+      material: GLOW_BERRIES
+      amount: 4
+    '6':
+      material_type: slimefun
+      material: YINGMO_XINGMO
+      amount: 2
+    '7':
+      material_type: slimefun
+      material: YINGMO_XINGMO
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: YINGMO_XINGMO
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_XINGMO
+      amount: 1
+
+YINGMO_FOOD_HEAVEN_SOUP:
+  item_group: YINGMO_SH
+  item:
+    name: '&b天境仙羹'
+    lore:
+    - '&7来自天境的神仙美食'
+    - '&7食用后获得抗性和生命再生'
+    material_type: mc
+    material: MUSHROOM_STEW
+  script: "heaven_soup"
+  nutrition: 14
+  saturation: 1.5
+  eatseconds: 1.6
+  recipe_type: YINGMO_WORKBENCH
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_TIANJING_FOMO
+      amount: 2
+    '2':
+      material_type: slimefun
+      material: YINGMO_TIANJING_FOMO
+      amount: 2
+    '3':
+      material_type: slimefun
+      material: YINGMO_TIANJING_FOMO
+      amount: 2
+    '4':
+      material_type: slimefun
+      material: YINGMO_TIANJING_FOMO
+      amount: 1
+    '5':
+      material_type: mc
+      material: BROWN_MUSHROOM
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_TIANJING_FOMO
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_TIANJING_FOMO
+      amount: 2
+    '8':
+      material_type: slimefun
+      material: YINGMO_TIANJING_FOMO
+      amount: 2
+    '9':
+      material_type: slimefun
+      material: YINGMO_TIANJING_FOMO
+      amount: 2

@@ -1,0 +1,179 @@
+YINGMO_GEN_CHUJI:
+  item_group: YINGMO_ENERGY
+  item:
+    name: '&x&f&0&a&5&f&f云&x&e&4&a&c&f&c樱&x&d&8&b&3&f&a浮&x&c&c&b&a&f&7沫&x&c&0&c&1&f&6发&x&b&4&c&8&f&2电&x&a&8&d&0&f&0机'
+    lore:
+    - '&7以漫天樱絮与轻盈云沫为能源'
+    - '&7轻柔交融转化微弱电能'
+    - '&7是沫沫能源前期基础供电装置'
+    - '&7适配小型基础机器'
+    - '&7泡沫流转间散落淡淡樱光'
+    - '&7平稳供给低压电力'
+    - '&x&f&0&a&5&f&f初&x&f&0&a&c&f&e阶&x&f&0&b&4&f&d·&x&f&0&b&b&f&c樱&x&f&0&c&3&f&c与&x&f&0&c&a&f&b泡&x&f&0&d&2&f&a沫&x&f&0&d&9&f&a相&x&f&0&e&1&f&9融&x&f&0&e&8&f&8发&x&f&0&f&0&f&8电'
+    - '&8⇨ &e☀ &7白天/夜晚: 1314 J/t'
+    - '&8⇨ &e⚡ &713140 J 可存储'
+    - '&8⇨ &e💡 &7光照等级≥10 时工作'
+    material_type: mc
+    material: PINK_GLAZED_TERRACOTTA
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 4
+    2:
+      material_type: slimefun
+      material: ELECTRIC_MOTOR
+      amount: 2
+    3:
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 4
+    4:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 4
+    5:
+      material_type: slimefun
+      material: YINGMO_YINGNENG_HEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 4
+    7:
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 8
+    8:
+      material_type: slimefun
+      material: HARDENED_METAL_INGOT
+      amount: 2
+    9:
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 8
+  capacity: 13140
+  dayEnergy: 1314
+  nightEnergy: 1314
+  lightLevel: 10
+
+YINGMO_GEN_ZHONGJI:
+  item_group: YINGMO_ENERGY
+  item:
+    name: '&x&e&8&c&0&f&8绯&x&e&4&c&1&f&7樱&x&e&0&c&2&f&6凝&x&d&c&c&4&f&6沫&x&d&8&c&5&f&4发&x&d&4&c&6&f&3电&x&d&0&c&8&f&2机'
+    lore:
+    - '&7凝练绯樱灵气与绵密幻沫'
+    - '&7将樱华与泡沫能量深度融合'
+    - '&7高效转化稳定电流'
+    - '&7发电效率大幅提升'
+    - '&7可带动中型机械运转'
+    - '&7樱沫交织的能量核心，续航更持久'
+    - '&x&e&8&c&0&f&8中&x&e&1&c&1&f&7阶&x&d&b&c&3&f&6·&x&d&4&c&4&f&6樱&x&c&e&c&6&f&4与&x&c&8&c&8&f&4泡&x&c&1&c&9&f&3沫&x&b&b&c&b&f&2相&x&b&4&c&c&f&1融&x&a&8&d&0&f&0发&x&a&8&d&0&f&0电'
+    - '&8⇨ &e☀ &7白天/夜晚: 13140 J/t'
+    - '&8⇨ &e⚡ &7131400 J 可存储'
+    - '&8⇨ &e💡 &7光照等级≥8 时工作'
+    material_type: mc
+    material: ORANGE_GLAZED_TERRACOTTA
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: YINGMO_NINGYING_GANG
+      amount: 4
+    2:
+      material_type: slimefun
+      material: YINGMO_QINGMO_JIBAN
+      amount: 4
+    3:
+      material_type: slimefun
+      material: YINGMO_NINGYING_GANG
+      amount: 4
+    4:
+      material_type: slimefun
+      material: YINGMO_YINGNENG_HEXIN
+      amount: 2
+    5:
+      material_type: slimefun
+      material: YINGMO_GEN_CHUJI
+      amount: 1
+    6:
+      material_type: slimefun
+      material: YINGMO_YINGNENG_HEXIN
+      amount: 2
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 4
+    8:
+      material_type: slimefun
+      material: PROGRAMMABLE_ANDROID
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 4
+  capacity: 131400
+  dayEnergy: 13140
+  nightEnergy: 13140
+  lightLevel: 8
+
+YINGMO_GEN_GAOJI:
+  item_group: YINGMO_ENERGY
+  item:
+    name: '&x&a&8&d&0&f&6天&x&b&4&c&8&f&6境&x&c&0&c&1&f&6樱&x&c&c&b&a&f&7沫&x&d&8&b&3&f&a发&x&e&4&a&c&f&c电&x&f&0&a&5&f&f机'
+    lore:
+    - '&7沫沫能源顶级发电装置'
+    - '&7融合天境圣樱本源与浩瀚净沫之力'
+    - '&7樱华漫天、泡沫涌动'
+    - '&7极致迸发超高功率电能'
+    - '&7全自动支撑全套高端生产线'
+    - '&7能源永不枯竭'
+    - '&x&a&8&d&0&f&0高&x&a&f&c&b&f&1阶&x&b&6&c&7&f&3·&x&b&d&c&3&f&4樱&x&c&4&b&e&f&6与&x&c&c&b&a&f&7泡&x&d&3&b&6&f&9沫&x&d&a&b&1&f&a相&x&e&1&a&d&f&c融&x&e&8&a&9&f&d发&x&f&0&a&5&f&f电'
+    - '&8⇨ &e☀ &7白天/夜晚: 131400 J/t'
+    - '&8⇨ &e⚡ &71314000 J 可存储'
+    - '&8⇨ &e💡 &7光照等级≥6 时工作'
+    material_type: mc
+    material: MAGENTA_GLAZED_TERRACOTTA
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: YINGMO_HUANKONG_MOJIN
+      amount: 4
+    2:
+      material_type: slimefun
+      material: YINGMO_YONGHENG_YINGJING
+      amount: 2
+    3:
+      material_type: slimefun
+      material: YINGMO_HUANKONG_MOJIN
+      amount: 4
+    4:
+      material_type: slimefun
+      material: YINGMO_LUOYING_YUANSHI
+      amount: 2
+    5:
+      material_type: slimefun
+      material: YINGMO_GEN_ZHONGJI
+      amount: 1
+    6:
+      material_type: slimefun
+      material: YINGMO_LUOYING_YUANSHI
+      amount: 2
+    7:
+      material_type: slimefun
+      material: YINGMO_YINGHE_DIANCHI
+      amount: 2
+    8:
+      material_type: slimefun
+      material: NUCLEAR_REACTOR
+      amount: 1
+    9:
+      material_type: slimefun
+      material: PROGRAMMABLE_ANDROID_2
+      amount: 1
+  capacity: 1314000
+  dayEnergy: 131400
+  nightEnergy: 131400
+  lightLevel: 6

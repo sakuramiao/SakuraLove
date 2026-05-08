@@ -1,0 +1,1721 @@
+YINGMO_BEE_FANYUJI:
+  title: '&x&f&0&a&5&f&f沫&x&d&e&a&f&f&b蜂&x&c&c&b&a&f&7繁&x&b&a&c&5&f&3育&x&a&8&d&0&f&0机'
+  slots:
+    '10':
+      name: '&7'
+      material: GRAY_STAINED_GLASS_PANE
+    '11':
+      name: '&7'
+      material: GRAY_STAINED_GLASS_PANE
+    '15':
+      name: '&7'
+      material: GRAY_STAINED_GLASS_PANE
+    '16':
+      name: '&7'
+      material: GRAY_STAINED_GLASS_PANE
+    0-8:
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '9':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '13':
+      name: '&b'
+      material: BLUE_STAINED_GLASS_PANE
+      progressbar: true
+      progressBarItem:
+        material: HONEYCOMB
+    '17':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '26':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+
+YINGMO_BEE_BOX_1_1:
+  title: '&x&f&0&a&5&f&f沫&x&e&7&a&a&f&d蜂&x&d&e&a&f&f&b工&x&d&5&b&5&f&9蜂&x&c&c&b&a&f&7蜂&x&c&3&b&f&f&5箱&x&b&a&c&5&f&3·&x&b&1&c&a&f&1低&x&a&8&d&0&f&0级'
+  slots:
+    0-9:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    10-12:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    14-16:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    19-21:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '22':
+      name: '&a'
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: HONEYCOMB
+    23-25:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+YINGMO_BEE_BOX_1_2:
+  title: '&x&f&0&a&5&f&f沫&x&e&7&a&a&f&d蜂&x&d&e&a&f&f&b工&x&d&5&b&5&f&9蜂&x&c&c&b&a&f&7蜂&x&c&3&b&f&f&5箱&x&b&a&c&5&f&3·&x&b&1&c&a&f&1中&x&a&8&d&0&f&0级'
+  slots:
+    0-9:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    10-12:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    14-16:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    19-21:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '22':
+      name: '&a'
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: HONEYCOMB_BLOCK
+    23-25:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+YINGMO_BEE_BOX_1_3:
+  title: '&x&f&0&a&5&f&f沫&x&e&7&a&a&f&d蜂&x&d&e&a&f&f&b工&x&d&5&b&5&f&9蜂&x&c&c&b&a&f&7蜂&x&c&3&b&f&f&5箱&x&b&a&c&5&f&3·&x&b&1&c&a&f&1高&x&a&8&d&0&f&0级'
+  slots:
+    0-9:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    10-12:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    14-16:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    19-21:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '22':
+      name: '&a'
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: GLISTERING_MELON_SLICE
+    23-25:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+YINGMO_BEE_BOX_1_4:
+  title: '&x&f&0&a&5&f&f沫&x&e&7&a&a&f&d蜂&x&d&e&a&f&f&b工&x&d&5&b&5&f&9蜂&x&c&c&b&a&f&7蜂&x&c&3&b&f&f&5箱&x&b&a&c&5&f&3·&x&b&1&c&a&f&1终&x&a&8&d&0&f&0极'
+  slots:
+    0-9:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    10-12:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    14-16:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    19-21:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '22':
+      name: '&a'
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: GOLD_BLOCK
+    23-25:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+YINGMO_BEE_BOX_2_1:
+  title: '&x&f&0&a&5&f&f沫&x&e&7&a&a&f&d蜂&x&d&e&a&f&f&b雄&x&d&5&b&5&f&9蜂&x&c&c&b&a&f&7蜂&x&c&3&b&f&f&5箱&x&b&a&c&5&f&3·&x&b&1&c&a&f&1低&x&a&8&d&0&f&0级'
+  slots:
+    0-9:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    10-12:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    14-16:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    19-21:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '22':
+      name: '&a'
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: HONEYCOMB
+    23-25:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+YINGMO_BEE_BOX_2_2:
+  title: '&x&f&0&a&5&f&f沫&x&e&7&a&a&f&d蜂&x&d&e&a&f&f&b雄&x&d&5&b&5&f&9蜂&x&c&c&b&a&f&7蜂&x&c&3&b&f&f&5箱&x&b&a&c&5&f&3·&x&b&1&c&a&f&1中&x&a&8&d&0&f&0级'
+  slots:
+    0-9:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    10-12:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    14-16:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    19-21:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '22':
+      name: '&a'
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: HONEYCOMB_BLOCK
+    23-25:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+YINGMO_BEE_BOX_2_3:
+  title: '&x&f&0&a&5&f&f沫&x&e&7&a&a&f&d蜂&x&d&e&a&f&f&b雄&x&d&5&b&5&f&9蜂&x&c&c&b&a&f&7蜂&x&c&3&b&f&f&5箱&x&b&a&c&5&f&3·&x&b&1&c&a&f&1高&x&a&8&d&0&f&0级'
+  slots:
+    0-9:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    10-12:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    14-16:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    19-21:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '22':
+      name: '&a'
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: GLISTERING_MELON_SLICE
+    23-25:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+YINGMO_BEE_BOX_2_4:
+  title: '&x&f&0&a&5&f&f沫&x&e&7&a&a&f&d蜂&x&d&e&a&f&f&b雄&x&d&5&b&5&f&9蜂&x&c&c&b&a&f&7蜂&x&c&3&b&f&f&5箱&x&b&a&c&5&f&3·&x&b&1&c&a&f&1终&x&a&8&d&0&f&0极'
+  slots:
+    0-9:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    10-12:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    14-16:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    19-21:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '22':
+      name: '&a'
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: GOLD_BLOCK
+    23-25:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+YINGMO_BEE_BOX_3_1:
+  title: '&x&f&0&a&5&f&f沫&x&e&7&a&a&f&d蜂&x&d&e&a&f&f&b蜂&x&d&5&b&5&f&9王&x&c&c&b&a&f&7蜂&x&c&3&b&f&f&5箱&x&b&a&c&5&f&3·&x&b&1&c&a&f&1低&x&a&8&d&0&f&0级'
+  slots:
+    0-9:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    10-12:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    14-16:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    19-21:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '22':
+      name: '&a'
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: HONEYCOMB
+    23-25:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+YINGMO_BEE_BOX_3_2:
+  title: '&x&f&0&a&5&f&f沫&x&e&7&a&a&f&d蜂&x&d&e&a&f&f&b蜂&x&d&5&b&5&f&9王&x&c&c&b&a&f&7蜂&x&c&3&b&f&f&5箱&x&b&a&c&5&f&3·&x&b&1&c&a&f&1中&x&a&8&d&0&f&0级'
+  slots:
+    0-9:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    10-12:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    14-16:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    19-21:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '22':
+      name: '&a'
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: HONEYCOMB_BLOCK
+    23-25:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+YINGMO_BEE_BOX_3_3:
+  title: '&x&f&0&a&5&f&f沫&x&e&7&a&a&f&d蜂&x&d&e&a&f&f&b蜂&x&d&5&b&5&f&9王&x&c&c&b&a&f&7蜂&x&c&3&b&f&f&5箱&x&b&a&c&5&f&3·&x&b&1&c&a&f&1高&x&a&8&d&0&f&0级'
+  slots:
+    0-9:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    10-12:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    14-16:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    19-21:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '22':
+      name: '&a'
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: GLISTERING_MELON_SLICE
+    23-25:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+YINGMO_BEE_BOX_3_4:
+  title: '&x&f&0&a&5&f&f沫&x&e&7&a&a&f&d蜂&x&d&e&a&f&f&b蜂&x&d&5&b&5&f&9王&x&c&c&b&a&f&7蜂&x&c&3&b&f&f&5箱&x&b&a&c&5&f&3·&x&b&1&c&a&f&1终&x&a&8&d&0&f&0极'
+  slots:
+    0-9:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    10-12:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    14-16:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    19-21:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '22':
+      name: '&a'
+      material: BLACK_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: GOLD_BLOCK
+    23-25:
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+YINGMO_MOSHI_JI:
+  title: '&f沫石机'
+  slots:
+    '0':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '8':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '9':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '45':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '46':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '47':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '48':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '50':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '51':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '52':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '53':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '2':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '3':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '5':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '6':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '10':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '13':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '16':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '19':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '25':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '29':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '33':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '39':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '41':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '49':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+
+
+    '1':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '4':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '7':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '11':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '12':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '14':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '15':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '20':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '21':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '23':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '24':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '28':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '30':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '32':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '34':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '37':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '38':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '40':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '42':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '43':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+
+YINGMO_GEN_CHUJI:
+  title: '&f云樱浮沫发电机'
+  slots:
+    '4':
+      material: gray_stained_glass_pane
+      name: '&a'
+    '13':
+      material: gray_stained_glass_pane
+      name: '&a'
+    '22':
+      name: '&f提示'
+      material_type: mc
+      material: BIRCH_SIGN
+      modelId: 88788
+      glow: True
+      lore:
+      - '&7左侧为输入槽'
+      - '&7右侧为输出槽'
+    '31':
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: True
+      progressBarItem:
+        material: REDSTONE
+    '40':
+      material: gray_stained_glass_pane
+      name: '&a'
+    '49':
+      material: gray_stained_glass_pane
+      name: '&a'
+YINGMO_GEN_ZHONGJI:
+  title: '&f绯樱凝沫发电机'
+  slots:
+    '4':
+      material: gray_stained_glass_pane
+      name: '&a'
+    '13':
+      material: gray_stained_glass_pane
+      name: '&a'
+    '22':
+      name: '&f提示'
+      material_type: mc
+      material: BIRCH_SIGN
+      modelId: 88788
+      glow: True
+      lore:
+      - '&7左侧为输入槽'
+      - '&7右侧为输出槽'
+    '31':
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: True
+      progressBarItem:
+        material: REDSTONE
+    '40':
+      material: gray_stained_glass_pane
+      name: '&a'
+    '49':
+      material: gray_stained_glass_pane
+      name: '&a'
+YINGMO_GEN_GAOJI:
+  title: '&f天境樱沫发电机'
+  slots:
+    '4':
+      material: gray_stained_glass_pane
+      name: '&a'
+    '13':
+      material: gray_stained_glass_pane
+      name: '&a'
+    '22':
+      name: '&f提示'
+      material_type: mc
+      material: BIRCH_SIGN
+      modelId: 88788
+      glow: True
+      lore:
+      - '&7左侧为输入槽'
+      - '&7右侧为输出槽'
+    '31':
+      material: black_stained_glass_pane
+      name: '&a'
+      progressbar: True
+      progressBarItem:
+        material: REDSTONE
+    '40':
+      material: gray_stained_glass_pane
+      name: '&a'
+    '49':
+      material: gray_stained_glass_pane
+      name: '&a'
+YINGMO_CAP_MACHINE:
+  title: '&f樱沫电容制作台'
+  slots:
+    0-8:
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '9':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '10':
+      name: '&7'
+      material: GRAY_STAINED_GLASS_PANE
+    '11':
+      name: '&7'
+      material: GRAY_STAINED_GLASS_PANE
+    '13':
+      name: '&b'
+      material: BLUE_STAINED_GLASS_PANE
+      progressbar: true
+      progressBarItem:
+        material: CHERRY_SAPLING
+    '15':
+      name: '&7'
+      material: GRAY_STAINED_GLASS_PANE
+    '16':
+      name: '&7'
+      material: GRAY_STAINED_GLASS_PANE
+    '17':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '26':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+    45-53:
+      name: '&d'
+      material: PINK_STAINED_GLASS_PANE
+
+YINGMO_XILUANGTAI:
+  title: '&f樱落洗矿台'
+  slots:
+    '0':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '1':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '4':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '7':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '8':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '9':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '45':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '46':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '47':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '48':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '50':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '51':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '52':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '53':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '2':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '3':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '5':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '6':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '10':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '13':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '16':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '19':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '25':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '29':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '33':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '39':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '49':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '31':
+      name: '&a'
+      material: ORANGE_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: CHERRY_SAPLING
+    '11':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '12':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '14':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '15':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '20':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '21':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '23':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '24':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '28':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '30':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '32':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '34':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '37':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '38':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+
+    '42':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '43':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '41':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+
+YINGMO_NIANFENJI:
+  title: '&f花沫碾粉机'
+  slots:
+    '0':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '1':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '2':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '3':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '4':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '5':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '6':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '7':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '8':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '9':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '45':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '46':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '47':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '48':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '49':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '50':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '51':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '52':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '53':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '22':
+      name: '&a'
+      material: ORANGE_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: CHERRY_SAPLING
+    '23':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '10':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '11':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '12':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '14':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '15':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '16':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '19':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '20':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '21':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+
+    '24':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '25':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '28':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '34':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '37':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '43':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+
+YINGMO_YONGDONGJI:
+  title: '&f冰沫永冻机'
+  slots:
+    '0':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '1':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '4':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '7':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '8':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '9':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '45':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '46':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '47':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '48':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '50':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '51':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '52':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '53':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '2':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '3':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '5':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '6':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '10':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '13':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '16':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '19':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '25':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '29':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '33':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '39':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '41':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '49':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '31':
+      name: '&a'
+      material: ORANGE_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: CHERRY_SAPLING
+    '11':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '12':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '14':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '15':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '20':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '21':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '23':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '24':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '28':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '30':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '32':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '34':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '37':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '38':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '42':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '43':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+
+YINGMO_XIANGBIANYI:
+  title: '&f樱冰相变仪'
+  slots:
+    '0':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '1':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '4':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '7':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '8':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '9':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '45':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '46':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '47':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '48':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '50':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '51':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '52':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '53':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '2':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '3':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '5':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '6':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '10':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '13':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '16':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '19':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '25':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '29':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '33':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '39':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '41':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '49':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '31':
+      name: '&a'
+      material: ORANGE_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: CHERRY_SAPLING
+    '11':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '12':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '14':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '15':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '20':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '21':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '23':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '24':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '28':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '30':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '32':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '34':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '37':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '38':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '42':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '43':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+
+YINGMO_SHANBIANLU:
+  title: '&f樱岩嬗变炉'
+  slots:
+    '0':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '1':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '4':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '7':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '8':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '9':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '17':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '18':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '26':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '27':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '35':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '36':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '44':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '45':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '46':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '47':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '48':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '50':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '51':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '52':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '53':
+      name: '&a'
+      material: LIGHT_BLUE_STAINED_GLASS_PANE
+    '2':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '3':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '5':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '6':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '10':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '13':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '16':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '19':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '25':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '29':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '33':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '39':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '41':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '49':
+      name: '&a'
+      material: PINK_STAINED_GLASS_PANE
+    '31':
+      name: '&a'
+      material: ORANGE_STAINED_GLASS_PANE
+      progressbar: True
+      progressBarItem:
+        material: CHERRY_SAPLING
+    '11':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '12':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '14':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '15':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '20':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '21':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '23':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '24':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '28':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '30':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '32':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '34':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '37':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '38':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '42':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE
+    '43':
+      name: '&a'
+      material: GRAY_STAINED_GLASS_PANE

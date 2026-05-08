@@ -1,0 +1,567 @@
+# 樱沫科技盔甲套装
+# 每套盔甲包含 helmet/chestplate/leggings/boots 四个部位
+# 穿全套获得对应药水效果
+
+# ========== 粉晶套（基础级，白色，DIAMOND材质） ==========
+# 效果: 穿全套 SPEED 1
+YINGMO_ARMOR_FENJING:
+  item_group: YINGMO_ZB
+  helmet:
+    id: YINGMO_ARMOR_FENJING_HELMET
+    material: DIAMOND_HELMET
+    name: "&f粉晶头盔"
+    lore:
+    - "&7蕴含樱花气息的防具"
+    - "&7穿全套获得速度提升"
+    recipe_type: YINGMO_WORKBENCH
+    recipe:
+      '1':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+      '2':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+      '3':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+      '4':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '5':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '6':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '7':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '8':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '9':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+  chestplate:
+    id: YINGMO_ARMOR_FENJING_CHESTPLATE
+    material: DIAMOND_CHESTPLATE
+    name: "&f粉晶胸甲"
+    lore:
+    - "&7蕴含樱花气息的防具"
+    - "&7穿全套获得速度提升"
+    recipe_type: YINGMO_WORKBENCH
+    recipe:
+      '1':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '2':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '3':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '4':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+      '5':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+      '6':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+      '7':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+      '8':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '9':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+  leggings:
+    id: YINGMO_ARMOR_FENJING_LEGGINGS
+    material: DIAMOND_LEGGINGS
+    name: "&f粉晶护腿"
+    lore:
+    - "&7蕴含樱花气息的防具"
+    - "&7穿全套获得速度提升"
+    recipe_type: YINGMO_WORKBENCH
+    recipe:
+      '1':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+      '2':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+      '3':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+      '4':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '5':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '6':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '7':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '8':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '9':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+  boots:
+    id: YINGMO_ARMOR_FENJING_BOOTS
+    material: DIAMOND_BOOTS
+    name: "&f粉晶靴子"
+    lore:
+    - "&7蕴含樱花气息的防具"
+    - "&7穿全套获得速度提升"
+    recipe_type: YINGMO_WORKBENCH
+    recipe:
+      '1':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '2':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '3':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '4':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '5':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '6':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 1
+      '7':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+      '8':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+      '9':
+        material_type: slimefun
+        material: YINGMO_FENJING
+        amount: 4
+  potion_effects:
+  - "SPEED 1"
+
+# ========== 绯樱套（进阶级，粉色，NETHERITE材质） ==========
+# 效果: 穿全套 SPEED 2 + REGENERATION 1
+YINGMO_ARMOR_FEIYING:
+  item_group: YINGMO_ZB
+  helmet:
+    id: YINGMO_ARMOR_FEIYING_HELMET
+    material: NETHERITE_HELMET
+    name: "&d绯樱头盔"
+    lore:
+    - "&7绯红樱花气息的防具"
+    - "&7穿全套获得速度+生命再生"
+    recipe_type: YINGMO_WORKBENCH
+    recipe:
+      '1':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+      '2':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+      '3':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+      '4':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '5':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '6':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '7':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '8':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '9':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+  chestplate:
+    id: YINGMO_ARMOR_FEIYING_CHESTPLATE
+    material: NETHERITE_CHESTPLATE
+    name: "&d绯樱胸甲"
+    lore:
+    - "&7绯红樱花气息的防具"
+    - "&7穿全套获得速度+生命再生"
+    recipe_type: YINGMO_WORKBENCH
+    recipe:
+      '1':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '2':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '3':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '4':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+      '5':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+      '6':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+      '7':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+      '8':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '9':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+  leggings:
+    id: YINGMO_ARMOR_FEIYING_LEGGINGS
+    material: NETHERITE_LEGGINGS
+    name: "&d绯樱护腿"
+    lore:
+    - "&7绯红樱花气息的防具"
+    - "&7穿全套获得速度+生命再生"
+    recipe_type: YINGMO_WORKBENCH
+    recipe:
+      '1':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+      '2':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+      '3':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+      '4':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '5':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '6':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '7':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '8':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '9':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+  boots:
+    id: YINGMO_ARMOR_FEIYING_BOOTS
+    material: NETHERITE_BOOTS
+    name: "&d绯樱靴子"
+    lore:
+    - "&7绯红樱花气息的防具"
+    - "&7穿全套获得速度+生命再生"
+    recipe_type: YINGMO_WORKBENCH
+    recipe:
+      '1':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '2':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '3':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '4':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '5':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '6':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 1
+      '7':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+      '8':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+      '9':
+        material_type: slimefun
+        material: YINGMO_FEIYING_HEJIN
+        amount: 4
+  potion_effects:
+  - "SPEED 2"
+  - "REGENERATION 1"
+
+# ========== 天境套（稀有级，蓝色，NETHERITE材质） ==========
+# 效果: 穿全套 SPEED 3 + REGENERATION 2 + DAMAGE_RESISTANCE 1
+YINGMO_ARMOR_TIANJING:
+  item_group: YINGMO_ZB
+  helmet:
+    id: YINGMO_ARMOR_TIANJING_HELMET
+    material: NETHERITE_HELMET
+    name: "&b天境头盔"
+    lore:
+    - "&7来自天境的至纯防具"
+    - "&7穿全套获得极致增益"
+    recipe_type: YINGMO_WORKBENCH
+    recipe:
+      '1':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+      '2':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+      '3':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+      '4':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '5':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '6':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '7':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '8':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '9':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+  chestplate:
+    id: YINGMO_ARMOR_TIANJING_CHESTPLATE
+    material: NETHERITE_CHESTPLATE
+    name: "&b天境胸甲"
+    lore:
+    - "&7来自天境的至纯防具"
+    - "&7穿全套获得极致增益"
+    recipe_type: YINGMO_WORKBENCH
+    recipe:
+      '1':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '2':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '3':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '4':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+      '5':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+      '6':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+      '7':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+      '8':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '9':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+  leggings:
+    id: YINGMO_ARMOR_TIANJING_LEGGINGS
+    material: NETHERITE_LEGGINGS
+    name: "&b天境护腿"
+    lore:
+    - "&7来自天境的至纯防具"
+    - "&7穿全套获得极致增益"
+    recipe_type: YINGMO_WORKBENCH
+    recipe:
+      '1':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+      '2':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+      '3':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+      '4':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '5':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '6':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '7':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '8':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '9':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+  boots:
+    id: YINGMO_ARMOR_TIANJING_BOOTS
+    material: NETHERITE_BOOTS
+    name: "&b天境靴子"
+    lore:
+    - "&7来自天境的至纯防具"
+    - "&7穿全套获得极致增益"
+    recipe_type: YINGMO_WORKBENCH
+    recipe:
+      '1':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '2':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '3':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '4':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '5':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '6':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 1
+      '7':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+      '8':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+      '9':
+        material_type: slimefun
+        material: YINGMO_TIANJING_FOMO
+        amount: 4
+  potion_effects:
+  - "SPEED 3"
+  - "REGENERATION 2"
+  - "DAMAGE_RESISTANCE 1"

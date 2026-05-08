@@ -1,0 +1,61 @@
+YINGMO_MOSHI_JI:
+  item_group: YINGMO_GZT
+  item:
+    name: '&x&f&0&a&5&f沫&x&d&8&b&3&f&a石&x&c&0&c&1&f&5机'
+    material: DROPPER
+    lore:
+    - '&7以沫沫能源驱动的圆石生成装置'
+    - '&7持续消耗电力自动生产圆石'
+    - '&e樱沫工坊 · 基础机器'
+    - '&8⇨ &e⚡ &750 J/次'
+    - '&8⇨ &e⚡ &7520 J 储存'
+    - '&8⇨ &e⏱ &71秒/次'
+    - '&8⇨ &e📦 &7每次产出5个圆石'
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 2
+    '2':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 2
+    '3':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 2
+    '4':
+      material_type: slimefun
+      material: YINGMO_XIANWEI
+      amount: 2
+    '5':
+      material_type: slimefun
+      material: COBALT_PICKAXE
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_XIANWEI
+      amount: 2
+    '7':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 2
+    '8':
+      material_type: slimefun
+      material: YINGMO_SHUZHI
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 2
+  capacity: 520
+  output:
+  - 31
+  outputItem:
+    material_type: mc
+    material: COBBLESTONE
+    amount: 5
+  tickRate: 1
+  status: 22
+  per: 50

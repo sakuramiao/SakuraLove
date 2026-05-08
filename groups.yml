@@ -1,0 +1,53 @@
+YINGMO:
+  lateInit: False
+  type: nested
+  item:
+    material_type: skull_hash
+    material: 20b13024045c5c0d6d2afb059ae9660f7ad020fd895bb75f64fcc02ddb07d327
+    name: '&x&f&0&a&5&f&f樱&x&c&3&a&b&f&7沫&x&9&7&b&1&e&f科&x&6&b&b&8&e&8技'
+  tier: 0
+YM_SMS:
+  lateInit: False
+  type: sub
+  item:
+    material_type: skull_hash
+    material: d0a402400e093c2b9464b61aeaebe2cd47f9d0a31c492a9a4545bba6c31eeddac
+    name: '&x&f&0&a&5&f&f樱&x&e&c&a&3&f&c沫&x&e&8&a&0&f&9科&x&e&4&9&e&f&6技&x&e&0&9&b&f&2说&x&d&c&9&9&e&f明&x&d&8&9&6&e&c书'
+  parent: YINGMO
+  tier: 1
+YINGMO_MAT:
+  lateInit: False
+  type: sub
+  item:
+    material_type: mc
+    material: PINK_PETALS
+    name: '&x&f&0&a&5&f&f樱&x&c&3&a&b&f&7沫&x&9&7&b&1&e&f材&x&6&b&b&8&e&8料'
+  parent: YINGMO
+  tier: 2
+YINGMO_GZT:
+  lateInit: False
+  type: sub
+  item:
+    material_type: mc
+    material: HOPPER
+    name: '&x&f&0&a&5&f&f樱&x&c&3&a&b&f&7沫&x&9&7&b&1&e&f工&x&6&b&b&8&e&8坊'
+  parent: YINGMO
+  tier: 3
+YINGMO_MF:
+  lateInit: False
+  type: sub
+  item:
+    material_type: skull_hash
+    material: b170299aae0f8a9b54580b612ff78b780a94d2d06b9b609e6743f62ecdf8d7aa
+    name: '&x&f&0&a&5&f&f沫&x&c&3&a&b&f&7蜂&x&9&7&b&1&e&f计&x&6&b&b&8&e&8划'
+  parent: YINGMO
+  tier: 4
+YINGMO_ENERGY:
+  lateInit: False
+  type: sub
+  item:
+    material_type: mc
+    material: SEA_LANTERN
+    name: '&x&f&0&a&5&f&f沫&x&c&3&a&b&f&7沫&x&9&7&b&1&e&f能&x&6&b&b&8&e&8源'
+  parent: YINGMO
+  tier: 5

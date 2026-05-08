@@ -1,0 +1,1782 @@
+YM_ZZT:
+  lateInit: false
+  item_group: YM_SMS
+  item:
+    name: '&x&f&1&e&b&f&1笨&x&e&c&d&7&f&3蛋&x&e&6&c&2&f&4的&x&e&1&a&e&f&6头&x&d&b&9&9&f&7颅'
+    lore:
+    - '&x&9&a&d&a&d&8只&x&9&8&d&8&d&a有&x&9&7&d&6&d&c上&x&9&5&d&5&d&f班&x&9&3&d&3&e&1摸&x&9&1&d&1&e&3鱼&x&9&0&c&f&e&5才&x&8&e&c&d&e&7有&x&8&c&c&b&e&9时&x&8&a&c&a&e&c间&x&8&9&c&8&e&e去&x&8&7&c&6&f&0更&x&8&5&c&4&f&2新'
+    material_type: skull_hash
+    material: d0a402400e093c2b9464b61eaebe2cd47f9d0a31c492a9a4545bba6c31eeddac
+    amount: 1
+  placeable: false
+
+YM_ZZPY:
+  lateInit: false
+  item_group: YM_SMS
+  item:
+    name: '&x&c&a&9&2&f&cM&x&c&0&a&1&f&aO&x&b&6&b&1&f&8M&x&a&c&c&0&f&6O&x&a&1&c&f&f&4Y&x&9&7&d&f&f&2_&x&8&d&e&e&f&0Y'
+    lore:
+    - '&x&c&a&9&2&f&c感&x&c&2&9&b&f&a谢&x&b&b&a&5&f&7您&x&b&3&a&e&f&5为&x&a&c&b&7&f&3我&x&a&4&c&1&f&0设&x&9&d&c&a&e&e计&x&9&5&d&3&e&c皮&x&8&e&d&d&e&9肤&x&8&6&e&6&e&7❤'
+    material_type: skull_hash
+    material: d0a402400e093c2b9464b61eaebe2cd47f9d0a31c492a9a4545bba6c31eeddac
+    amount: 1
+  placeable: false
+
+YM_BB:
+  lateInit: false
+  item_group: YM_SMS
+  item:
+    name: '&x&4&d&e&b&e&5樱&x&6&5&d&b&e&7沫&x&7&d&c&c&e&9的&x&9&6&b&c&e&b碎&x&a&e&a&c&e&c碎&x&c&6&9&d&e&e言&x&d&e&8&d&f&0语'
+    lore:
+    - '&x&e&7&c&6&f&4制作这个附属纯属个人摸鱼无聊所做。有天突然看见粘液科技附属这么多，我一个会计上班的从来没学过编程能不能也尝试做做呢 说干就干，努力开始学习，0.0.1版本虽然是最初版本但是我还是想多做一些，要不然什么都没有就放上来也太无聊了，想做出来基础材料与基础机器还有养蜂吧嘻嘻。------2026年5月4日'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+YINGMO_FENJING:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&f&0&b&e&f&c沫&x&f&0&d&7&f&a粉&x&f&0&f&0&f&8晶'
+    lore:
+    - '&7蕴含樱花气息的基础晶体'
+    - '&7是樱沫科技的起点'
+    - '&e⇨ 破坏樱花树叶有概率掉落'
+    material_type: mc
+    material: CHERRY_LEAVES
+    amount: 1
+  placeable: false
+  drop_from: CHERRY_LEAVES
+  drop_chance: 50
+  drop_amount: 1
+YINGMO_XIANWEI:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&d&8&b&3&f&a花&x&c&0&c&1&f&5纤&x&a&8&d&0&f&0维'
+    lore:
+    - '&7轻软如雾的纤维'
+    - '&7轻盈且韧性极强'
+    material_type: mc
+    material: STRING
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: mc
+      material: STRING
+      amount: 1
+    '2':
+      material_type: mc
+      material: STRING
+      amount: 1
+    '3':
+      material_type: mc
+      material: STRING
+      amount: 1
+    '4':
+      material_type: mc
+      material: STRING
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+    '6':
+      material_type: mc
+      material: STRING
+      amount: 1
+    '7':
+      material_type: mc
+      material: STRING
+      amount: 1
+    '8':
+      material_type: mc
+      material: STRING
+      amount: 1
+    '9':
+      material_type: mc
+      material: STRING
+      amount: 1
+YINGMO_SHUZHI:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&f&0&b&e&f&c花&x&f&0&d&7&f&a树&x&f&0&f&0&f&8脂'
+    lore:
+    - '&7樱花树凝结的天然树脂'
+    - '&7黏性与韧性兼备'
+    material_type: mc
+    material: HONEY_BOTTLE
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_XIANWEI
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_XIANWEI
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+    '5':
+      material_type: mc
+      material: SLIME_BALL
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_XIANWEI
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_XIANWEI
+      amount: 1
+YINGMO_SUIJING:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&e&5&b&0&f&a璃&x&d&a&b&c&f&6碎&x&d&0&c&8&f&2晶'
+    lore:
+    - '&7樱色琉璃碎片'
+    - '&7折射出温柔的微光'
+    material_type: mc
+    material: PINK_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+    '2':
+      material_type: mc
+      material: QUARTZ
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+    '4':
+      material_type: mc
+      material: QUARTZ
+      amount: 1
+    '5':
+      material_type: mc
+      material: DIAMOND
+      amount: 1
+    '6':
+      material_type: mc
+      material: QUARTZ
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+    '8':
+      material_type: mc
+      material: QUARTZ
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+YINGMO_YUNMO_HEJIN:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&f&0&f&8云&x&d&8&e&5&f&5沫&x&c&0&d&a&f&2合&x&a&8&d&0&f&0金'
+    lore:
+    - '&7由泡沫与基础金属合成'
+    - '&7轻盈又坚固'
+    material_type: mc
+    material: IRON_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 1
+YINGMO_YINGLUO_DAOXIAN:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&d&8&b&3&f&a络&x&c&0&c&1&f&5导&x&a&8&d&0&f&0线'
+    lore:
+    - '&7精密能量导线'
+    - '&7高效稳定不发热'
+    material_type: mc
+    material: REDSTONE
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: COPPER_WIRE
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: COPPER_WIRE
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: COPPER_WIRE
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: COPPER_WIRE
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: YINGMO_SHUZHI
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: COPPER_WIRE
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: COPPER_WIRE
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: COPPER_WIRE
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: COPPER_WIRE
+      amount: 1
+YINGMO_YINGHUN_CHEN:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&e&0&b&6&f&8魂&x&d&0&c&8&f&2尘'
+    lore:
+    - '&7樱花精华凝聚的粉尘'
+    - '&7稀有且力量强大'
+    material_type: mc
+    material: BLAZE_POWDER
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: SULFATE
+      amount: 2
+    '2':
+      material_type: slimefun
+      material: SULFATE
+      amount: 2
+    '3':
+      material_type: slimefun
+      material: SULFATE
+      amount: 2
+    '4':
+      material_type: mc
+      material: BLAZE_POWDER
+      amount: 2
+    '5':
+      material_type: mc
+      material: BLAZE_POWDER
+      amount: 2
+    '6':
+      material_type: mc
+      material: BLAZE_POWDER
+      amount: 2
+    '7':
+      material_type: mc
+      material: SUGAR
+      amount: 2
+    '8':
+      material_type: mc
+      material: SUGAR
+      amount: 2
+    '9':
+      material_type: mc
+      material: SUGAR
+      amount: 2
+YINGMO_FUGUANG_PAOMO:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&a&8&d&0&f&0浮&x&c&0&d&a&f&2光&x&d&8&e&5&f&5泡&x&f&0&f&0&f&8沫'
+    lore:
+    - '&7会微微发光的特殊泡沫'
+    - '&7自带稳定能量场'
+    material_type: mc
+    material: GLOWSTONE_DUST
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: YINGMO_JINGBAI_PAOMO
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: YINGMO_JINGBAI_PAOMO
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: YINGMO_YINGHUN_CHEN
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_JINGBAI_PAOMO
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: YINGMO_JINGBAI_PAOMO
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 1
+YINGMO_HUANMO_JINGTI:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&a&8&d&0&f&0幻&x&c&0&d&a&f&2沫&x&d&8&e&5&f&5晶&x&f&0&f&0&f&8体'
+    lore:
+    - '&7泡沫在高压下凝结的晶体'
+    - '&7能量传导极佳'
+    material_type: mc
+    material: AMETHYST_SHARD
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: HARDENED_METAL_INGOT
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: YINGMO_YINGZHU_TIE
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: DURALUMIN_INGOT
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 1
+YINGMO_YINGNENG_HEXIN:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&d&8&b&3&f&a能&x&c&0&c&1&f&5核&x&a&8&d&0&f&0心'
+    lore:
+    - '&7储存樱花能量的核心'
+    - '&7是高级机器的心脏'
+    material_type: mc
+    material: HEART_OF_THE_SEA
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_FUGUANG_PAOMO
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_NINGJIAO
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: YINGMO_JINGBAI_PAOMO
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_JINGBAI_PAOMO
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_FUGUANG_PAOMO
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_NINGJIAO
+      amount: 1
+YINGMO_XINGMO_JIEZHI:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&a&8&d&0&f&0星&x&c&0&d&a&f&2沫&x&d&8&e&5&f&5介&x&f&0&f&0&f&8质'
+    lore:
+    - '&7传递能量的特殊介质'
+    - '&7几乎无损耗'
+    material_type: mc
+    material: ENDER_PEARL
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: REDSTONE_ALLOY
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: GOLD_DUST
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: YINGMO_YINGNENG_HEXIN
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: GOLD_DUST
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: REDSTONE_ALLOY
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+YINGMO_QINGMO_JIBAN:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&a&8&d&0&f&0清&x&c&0&d&a&f&2沫&x&d&8&e&5&f&5基&x&f&0&f&0&f&8板'
+    lore:
+    - '&7高级机器的基础电路板'
+    - '&7纯净无杂质'
+    material_type: mc
+    material: GOLD_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_NINGJIAO
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: YINGMO_YINGZHU_TIE
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_NINGJIAO
+      amount: 1
+YINGMO_FEIYING_HEJIN:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&5&b&0&f&a樱&x&d&a&b&c&f&6合&x&d&0&c&8&f&2金'
+    lore:
+    - '&7绯红与樱色交织的合金'
+    - '&7性能大幅提升'
+    material_type: mc
+    material: COPPER_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: YINGMO_YINGHUN_CHEN
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: YINGMO_SHUZHI
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: YINGMO_YINGHUN_CHEN
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 1
+YINGMO_NINGYING_GANG:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f凝&x&e&5&b&0&f&a樱&x&d&a&b&c&f&6钢&x&d&0&c&8&f&2锭'
+    lore:
+    - '&7融入樱晶淬炼的钢锭'
+    - '&7坚硬却不失温柔'
+    material_type: mc
+    material: NETHERITE_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_YINGZHU_TIE
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_FEIYING_HEJIN
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: HARDENED_METAL_INGOT
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: YINGMO_SHUZHI
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: HARDENED_METAL_INGOT
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_FEIYING_HEJIN
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_YINGZHU_TIE
+      amount: 1
+YINGMO_HUANKONG_MOJIN:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f幻&x&d&8&b&3&f&a空&x&c&0&c&1&f&5魔&x&a&8&d&0&f&0金'
+    lore:
+    - '&7梦幻般的金色合金'
+    - '&7传说来自虚空泡沫'
+    material_type: mc
+    material: NETHERITE_SCRAP
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_FEIYING_HEJIN
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_HUANMO_JINGTI
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: YINGMO_YINGHUN_CHEN
+      amount: 1
+    '5':
+      material_type: mc
+      material: ENDER_PEARL
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_YINGHUN_CHEN
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_HUANMO_JINGTI
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_FEIYING_HEJIN
+      amount: 1
+YINGMO_YONGHENG_YINGJING:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f永&x&f&0&b&e&f&c恒&x&f&0&d&7&f&a樱&x&f&0&f&0&f&8晶'
+    lore:
+    - '&7永不凋零的樱花结晶'
+    - '&7蕴含庞大自然能量'
+    material_type: mc
+    material: NETHER_STAR
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_HUANMO_JINGTI
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: CARBONADO
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_YINGNENG_HEXIN
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    '5':
+      material_type: mc
+      material: NETHER_STAR
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_YINGNENG_HEXIN
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: CARBONADO
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_HUANMO_JINGTI
+      amount: 1
+YINGMO_TIANJING_PAOMO:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&a&8&d&0&f&0天&x&c&0&d&a&f&2境&x&d&8&e&5&f&5泡&x&f&0&f&0&f&8沫'
+    lore:
+    - '&7来自高空的纯净泡沫'
+    - '&7轻盈到可漂浮'
+    material_type: mc
+    material: NAUTILUS_SHELL
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_FUGUANG_PAOMO
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: SYNTHETIC_EMERALD
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_HUANKONG_MOJIN
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: YINGMO_QINGMO_JIBAN
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: PROGRAMMABLE_ANDROID
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_QINGMO_JIBAN
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_FUGUANG_PAOMO
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: SYNTHETIC_EMERALD
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_XINGMO_JIEZHI
+      amount: 1
+YINGMO_LUOYING_YUANSHI:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f落&x&f&0&b&e&f&c樱&x&f&0&d&7&f&a源&x&f&0&f&0&f&8石'
+    lore:
+    - '&7蕴藏本源力量的樱色源石'
+    - '&7极其稀有'
+    material_type: mc
+    material: EMERALD
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_NINGYING_GANG
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: YINGMO_YONGHENG_YINGJING
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: YINGMO_TIANJING_PAOMO
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: PROGRAMMABLE_ANDROID_2
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_YINGHE_DIANCHI
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_YONGHENG_YINGJING
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: YINGMO_NINGYING_GANG
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 1
+YINGMO_CHENGXIN_MOYU:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&a&8&d&0&f&0澄&x&c&0&d&a&f&2心&x&d&8&e&5&f&5沫&x&f&0&f&0&f&8玉'
+    lore:
+    - '&7澄澈通透的沫玉'
+    - '&7能净化紊乱能量'
+    material_type: mc
+    material: DIAMOND
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_YONGHENG_YINGJING
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: YINGMO_HUANKONG_MOJIN
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_YONGHENG_YINGJING
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: YINGMO_QINGMO_JIBAN
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: YINGMO_YINGHE_DIANCHI
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: CARBONADO_EDGED_CAPACITOR
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_HUANMO_JINGTI
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: YINGMO_YINGNENG_HEXIN
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_HUANMO_JINGTI
+      amount: 1
+YINGMO_YINGZHU_TIE:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&e&5&b&0&f&a铸&x&d&a&b&c&f&6铁'
+    lore:
+    - '&7经樱沫淬炼的铸造铁'
+    - '&7坚韧且温润'
+    - '&7是中阶机器的骨架材料'
+    material_type: mc
+    material: BRICK
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '5':
+      material_type: slimefun
+      material: YINGMO_FUGUANG_PAOMO
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 1
+YINGMO_YINGHE_DIANCHI:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&e&5&b&0&f&a核&x&d&a&b&c&f&6蓄&x&d&0&c&8&f&2电&x&c&0&d&0&f&0池'
+    lore:
+    - '&7以樱能核心驱动的蓄电单元'
+    - '&7储存大量樱沫电能'
+    - '&7是高级能源设备的关键组件'
+    material_type: mc
+    material: GOLD_BLOCK
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    '1':
+      material_type: slimefun
+      material: YINGMO_YINGNENG_HEXIN
+      amount: 1
+    '2':
+      material_type: slimefun
+      material: YINGMO_QINGMO_JIBAN
+      amount: 1
+    '3':
+      material_type: slimefun
+      material: YINGMO_YINGNENG_HEXIN
+      amount: 1
+    '4':
+      material_type: slimefun
+      material: ENERGIZED_CAPACITOR
+      amount: 1
+    '5':
+      material_type: mc
+      material: GOLD_BLOCK
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_YINGZHU_TIE
+      amount: 1
+    '7':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '8':
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 1
+    '9':
+      material_type: slimefun
+      material: YINGMO_YINGZHU_TIE
+      amount: 1
+YINGMO_BEE_NET:
+  item_group: YINGMO_MF
+  item:
+    name: '&x&f&0&a&5&f&f沫&x&d&e&a&f&f&b蜂&x&c&c&b&a&f&7捕&x&b&a&c&5&f&3蜂&x&a&8&d&0&f&0网'
+    material: STICK
+    material_type: mc
+    lore:
+    - '&7右键原版蜜蜂捕获工蜂'
+    - '&7工蜂放入养蜂机产出基础矿物'
+    - '&e捕蜂工具'
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  script: bee_net
+  recipe:
+    '1':
+      material: STRING
+      amount: 4
+    '2':
+      material_type: slimefun
+      material: YINGMO_XIANWEI
+      amount: 2
+    '3':
+      material: STRING
+      amount: 4
+    '4':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+    '5':
+      material: STICK
+      amount: 1
+    '6':
+      material_type: slimefun
+      material: YINGMO_FENJING
+      amount: 1
+    '7':
+      material: STRING
+      amount: 2
+    '8':
+      material: STICK
+      amount: 1
+    '9':
+      material: STRING
+      amount: 2
+YINGMO_BEE_G_COB:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&f&0&b&e&f&c野&x&f&0&d&7&f&a石&x&f&0&f&0&f&8蜂'
+    material: a5bae982f483547d35afb16986a4b1d811c54da1bbfa5834362dc0af01f5692c
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d工蜂'
+    - '&7产出: &f圆石'
+    - '&7樱林基础蜂灵，可凝结圆石'
+    - '&e仅可通过捕虫网野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_G_COL:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&f&0&b&e&f&c野&x&f&0&d&7&f&a炭&x&f&0&f&0&f&8蜂'
+    material: a5bae982f483547d35afb16986a4b1d811c54da1bbfa5834362dc0af01f5692c
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d工蜂'
+    - '&7产出: &f煤炭'
+    - '&7周身带炭韵，可产出煤炭'
+    - '&e仅可通过捕虫网野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_G_IRN:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&f&0&b&e&f&c野&x&f&0&d&7&f&a铁&x&f&0&f&0&f&8蜂'
+    material: a5bae982f483547d35afb16986a4b1d811c54da1bbfa5834362dc0af01f5692c
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d工蜂'
+    - '&7产出: &f铁锭'
+    - '&7携铁矿灵气，可产出铁锭'
+    - '&e仅可通过捕虫网野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_G_COP:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&f&0&b&e&f&c野&x&f&0&d&7&f&a铜&x&f&0&f&0&f&8蜂'
+    material: a5bae982f483547d35afb16986a4b1d811c54da1bbfa5834362dc0af01f5692c
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d工蜂'
+    - '&7产出: &f铜锭'
+    - '&7栖铜矿脉，可产出铜锭'
+    - '&e仅可通过捕虫网野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_G_GLD:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&f&0&b&e&f&c野&x&f&0&d&7&f&a金&x&f&0&f&0&f&8蜂'
+    material: a5bae982f483547d35afb16986a4b1d811c54da1bbfa5834362dc0af01f5692c
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d工蜂'
+    - '&7产出: &f金锭'
+    - '&7稀有蜂种，可产出金锭'
+    - '&e仅可通过捕虫网野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_G_RED:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&f&0&b&7&f&d野&x&f&0&c&a&f&b红&x&f&0&d&d&f&9石&x&f&0&f&0&f&8蜂'
+    material: a5bae982f483547d35afb16986a4b1d811c54da1bbfa5834362dc0af01f5692c
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d工蜂'
+    - '&7产出: &f红石'
+    - '&7带红石能量，可产出红石'
+    - '&e仅可通过捕虫网野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_G_LAP:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&f&0&b&e&f&c野&x&f&0&d&7&f&a青&x&f&0&f&0&f&8蜂'
+    material: a5bae982f483547d35afb16986a4b1d811c54da1bbfa5834362dc0af01f5692c
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d工蜂'
+    - '&7产出: &f青金石'
+    - '&7携青金石光晕，可产出青金石'
+    - '&e仅可通过捕虫网野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_G_NQZ:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&d&e&a&f&f&b界&x&c&c&b&a&f&7石&x&b&a&c&5&f&3英&x&a&8&d&0&f&0蜂'
+    material: a5bae982f483547d35afb16986a4b1d811c54da1bbfa5834362dc0af01f5692c
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d工蜂'
+    - '&7产出: &f下界石英'
+    - '&7穿梭下界，可产出下界石英'
+    - '&e仅可通过捕虫网野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_G_NIN:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&d&e&a&f&f&b界&x&c&c&b&a&f&7合&x&b&a&c&5&f&3金&x&a&8&d&0&f&0蜂'
+    material: a5bae982f483547d35afb16986a4b1d811c54da1bbfa5834362dc0af01f5692c
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d工蜂'
+    - '&7产出: &f下界合金锭'
+    - '&7下界珍稀蜂种，可产出下界合金锭'
+    - '&e仅可通过捕虫网野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_IDS:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8铁&x&d&8&b&f&f&5粉&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f铁粉'
+    - '&7杂交专属蜂灵，可产出铁粉'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_GDS:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8金&x&d&8&b&f&f&5粉&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f金粉'
+    - '&7凝练金质微粒，可产出金粉'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_CDS:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8铜&x&d&8&b&f&f&5粉&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f铜粉'
+    - '&7析出铜质细粉，可产出铜粉'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_TDS:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8锡&x&d&8&b&f&f&5粉&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f锡粉'
+    - '&7凝结锡质粉末，可产出锡粉'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_SDS:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8银&x&d&8&b&f&f&5粉&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f银粉'
+    - '&7带银光光晕，可产出银粉'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_ADS:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8铝&x&d&8&b&f&f&5粉&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f铝粉'
+    - '&7轻盈蜂灵，可产出铝粉'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_LDS:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8铅&x&d&8&b&f&f&5粉&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f铅粉'
+    - '&7厚重蜂灵，可产出铅粉'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_ZDS:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8锌&x&d&8&b&f&f&5粉&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f锌粉'
+    - '&7特化蜂种，可产出锌粉'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_MDS:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8镁&x&d&8&b&f&f&5粉&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f镁粉'
+    - '&7高能蜂灵，可产出镁粉'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_SLF:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8硫&x&d&8&b&f&f&5酸&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f硫酸盐'
+    - '&7异变蜂种，可产出硫酸盐'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_STL:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&a&c&5&f&3境&x&c&c&b&a&f&7钢&x&d&e&a&f&f&b蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f钢锭'
+    - '&7蜂群首领，可产出钢锭'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_BRZ:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&6&c&7&f&3境&x&c&4&b&e&f&6青&x&d&3&b&6&f&9铜&x&e&1&a&d&f&c蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f青铜锭'
+    - '&7古老蜂后，可产出青铜锭'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_DMG:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&2&c&9&f&2境&x&b&c&c&3&f&4大&x&c&6&b&d&f&6马&x&d&1&b&7&f&8士&x&d&b&b&1&f&a革&x&e&5&a&b&f&c蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f大马士革钢锭'
+    - '&7极致蜂灵，可产出大马士革钢锭'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_HDM:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&6&c&7&f&3境&x&c&4&b&e&f&6硬&x&d&3&b&6&f&9化&x&e&1&a&d&f&c蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f硬化金属锭'
+    - '&7坚硬蜂后，可产出硬化金属锭'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_RAI:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&2&c&9&f&2境&x&b&c&c&3&f&4强&x&c&6&b&d&f&6化&x&d&1&b&7&f&8合&x&d&b&b&1&f&a金&x&e&5&a&b&f&c蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f强化合金锭'
+    - '&7全能蜂后，可产出强化合金锭'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_CBI:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&4&c&8&f&2境&x&c&0&c&1&f&5科&x&c&c&b&a&f&7林&x&d&8&b&3&f&a斯&x&e&4&a&c&f&c蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f科林斯青铜锭'
+    - '&7珍稀蜂后，可产出科林斯青铜锭'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_SDI:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&6&c&7&f&3境&x&c&4&b&e&f&6焊&x&d&3&b&6&f&9锡&x&e&1&a&d&f&c蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f焊锡锭'
+    - '&7柔和蜂后，可产出焊锡锭'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_BLN:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&6&c&7&f&3境&x&c&4&b&e&f&6银&x&d&3&b&6&f&9铜&x&e&1&a&d&f&c蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f银铜锭'
+    - '&7共生蜂后，可产出银铜锭'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_BRS:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&6&c&7&f&3境&x&c&4&b&e&f&6黄&x&d&3&b&6&f&9铜&x&e&1&a&d&f&c蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f黄铜锭'
+    - '&7温润蜂后，可产出黄铜锭'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_ABS:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&4&c&8&f&2境&x&c&0&c&1&f&5铝&x&c&c&b&a&f&7黄&x&d&8&b&3&f&a铜&x&e&4&a&c&f&c蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f铝黄铜锭'
+    - '&7耐腐蚀蜂后，可产出铝黄铜锭'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_DLN:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&6&c&7&f&3境&x&c&4&b&e&f&6硬&x&d&3&b&6&f&9铝&x&e&1&a&d&f&c蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f硬铝锭'
+    - '&7超轻蜂后，可产出硬铝锭'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_NKL:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&a&c&5&f&3境&x&c&c&b&a&f&7镍&x&d&e&a&f&f&b蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f镍锭'
+    - '&7稀有寒蜂后，可产出镍锭'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_CBT:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&a&c&5&f&3境&x&c&c&b&a&f&7钴&x&d&e&a&f&f&b蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f钴锭'
+    - '&7深空蜂后，可产出钴锭'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_GDI:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&4&c&8&f&2境&x&c&0&c&1&f&5镀&x&c&c&b&a&f&7金&x&d&8&b&3&f&a铁&x&e&4&a&c&f&c蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f镀金铁'
+    - '&7华贵蜂后，可产出镀金铁'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_RDA:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&2&c&9&f&2境&x&b&c&c&3&f&4红&x&c&6&b&d&f&6石&x&d&1&b&7&f&8合&x&d&b&b&1&f&a金&x&e&5&a&b&f&c蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f红石合金'
+    - '&7高能蜂后，可产出红石合金'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_SID:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&2&c&9&f&2境&x&b&c&c&3&f&4人&x&c&6&b&d&f&6造&x&d&1&b&7&f&8钻&x&d&b&b&1&f&a石&x&e&5&a&b&f&c蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f人造钻石'
+    - '&7璀璨蜂后，可产出人造钻石'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_SIE:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&1&c&a&f&1境&x&b&a&c&5&f&3人&x&c&3&b&f&f&5造&x&c&c&b&a&f&7绿&x&d&5&b&5&f&9宝&x&d&e&a&f&f&b石&x&e&7&a&a&f&d蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f人造绿宝石'
+    - '&7圣洁蜂后，可产出人造绿宝石'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_G24K:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8金&x&d&8&b&f&f&5锭&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f24k金锭'
+    - '&7璀璨金灵，可产出24k金锭'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_CIG:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8铜&x&d&8&b&f&f&5锭&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f铜锭'
+    - '&7精炼铜质，可产出铜锭'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_TIG:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8锡&x&d&8&b&f&f&5锭&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f锡锭'
+    - '&7纯净锡质，可产出锡锭'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_SIG:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8银&x&d&8&b&f&f&5锭&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f银锭'
+    - '&7闪耀银光，可产出银锭'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_AIG:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8铝&x&d&8&b&f&f&5锭&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f铝锭'
+    - '&7轻盈铝质，可产出铝锭'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_LIG:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8铅&x&d&8&b&f&f&5锭&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f铅锭'
+    - '&7沉稳铅质，可产出铅锭'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_ZIG:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8锌&x&d&8&b&f&f&5锭&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f锌锭'
+    - '&7特化锌质，可产出锌锭'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_MIG:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8镁&x&d&8&b&f&f&5锭&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f镁锭'
+    - '&7高能镁质，可产出镁锭'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_BAT:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8电&x&d&8&b&f&f&5池&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f电池'
+    - '&7储能蜂灵，可产出电池'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_X_MAG:
+  hidden: true
+  item:
+    name: '&x&f&0&a&5&f&f绯&x&e&8&a&d&f&b樱&x&e&0&b&6&f&8磁&x&d&8&b&f&f&5铁&x&d&0&c&8&f&2蜂'
+    material: 618364b9cf02623af12040e7c6843a48df93e389ddd50249a0080b423efc2b3f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &b雄蜂'
+    - '&7产出: &f磁铁'
+    - '&7磁力蜂灵，可产出磁铁'
+    - '&b工蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item
+YINGMO_BEE_W_ELM:
+  hidden: true
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&a&c&5&f&3境&x&c&c&b&a&f&7电&x&d&e&a&f&f&b磁&x&e&6&a&a&f&d蜂&x&f&0&a&5&f&f后'
+    material: 55e1b2b4bd771da348695f699f868bbce44bbb4ff18cf745fc682fd38788d06f
+    material_type: skull_hash
+    lore:
+    - '&7品种: &d蜂王'
+    - '&7产出: &f电磁铁'
+    - '&7磁场蜂后，可产出电磁铁'
+    - '&b雄蜂杂交获得，无法野外捕捉'
+    amount: 1
+  item_group: YINGMO_MF
+  placeable: false
+  script: bee_item

@@ -1,0 +1,62 @@
+YINGMO_JINGBAI_PAOMO:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&f&0&f&8净&x&d&8&e&5&f&5白&x&c&0&d&a&f&2泡&x&a&8&d&0&f&0沫'
+    lore:
+    - '&7纯净无暇的泡沫'
+    - '&7拥有稳定的能量缓冲特性'
+    - '&7GEO矿机可探测获取'
+    material_type: mc
+    material: SNOWBALL
+    amount: 1
+  max_deviation: 4
+  geo_name: '&x&f&0&f&0&f&8净&x&d&8&e&5&f&5白&x&c&0&d&a&f&2泡&x&a&8&d&0&f&0沫'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal:
+      snowy: 10
+      forest: 6
+      cherry_grove: 8
+      others: 3
+YINGMO_NINGJIAO:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&f&0&f&8轻&x&d&8&e&5&f&5沫&x&c&0&d&a&f&2凝&x&a&8&d&0&f&0胶'
+    lore:
+    - '&7半透明凝胶'
+    - '&7触感轻柔，可吸收微弱能量'
+    - '&7GEO矿机可探测获取'
+    material_type: mc
+    material: SLIME_BALL
+    amount: 1
+  max_deviation: 4
+  geo_name: '&x&f&0&f&0&f&8轻&x&d&8&e&5&f&5沫&x&c&0&d&a&f&2凝&x&a&8&d&0&f&0胶'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal:
+      swamp: 10
+      forest: 6
+      cherry_grove: 8
+      others: 3
+YINGMO_WEILI:
+  item_group: YINGMO_MAT
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&d&8&b&3&f&a风&x&c&0&c&1&f&5微&x&a&8&d&0&f&0粒'
+    lore:
+    - '&7飘散在空气中的樱风粒子'
+    - '&7难以收集却十分实用'
+    - '&7GEO矿机可探测获取'
+    material_type: mc
+    material: FIREWORK_STAR
+    amount: 1
+  max_deviation: 3
+  geo_name: '&x&f&0&a&5&f&f樱&x&d&8&b&3&f&a风&x&c&0&c&1&f&5微&x&a&8&d&0&f&0粒'
+  recipe_type: GEO_MINER
+  obtain_from_geo_miner: true
+  supply:
+    normal:
+      cherry_grove: 10
+      end_highlands: 6
+      others: 2

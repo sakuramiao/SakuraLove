@@ -1,0 +1,162 @@
+YINGMO_CAP_CHUJI:
+  item_group: YINGMO_ENERGY
+  item:
+    name: '&x&f&0&a&5&f&f樱&x&e&1&a&d&f&c絮&x&d&3&b&6&f&9轻&x&c&4&b&e&f&6沫&x&b&6&c&7&f&3电&x&a&8&d&0&f&0容'
+    lore:
+    - '&7以樱絮纤维包裹轻盈泡沫制成'
+    - '&7小巧便携的基础储能元件'
+    - '&7温柔封存少量樱沫电能'
+    - '&7缓冲设备电压波动'
+    - '&7适配前期小型机器'
+    - '&7轻沫流转存蓄微光电力'
+    - '&x&f&0&a&5&f&f初&x&f&0&a&e&f&e阶&x&f&0&b&7&f&d·&x&f&0&c&1&f&c封&x&f&0&c&a&f&b存&x&f&0&d&3&f&a樱&x&f&0&d&d&f&9沫&x&f&0&e&6&f&8能&x&f&0&f&0&f&8量'
+    - '&8⇨ &e⚡ &7131400 J 可存储'
+    material_type: mc
+    material: QUARTZ_BLOCK
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 8
+    2:
+      material_type: slimefun
+      material: YINGMO_SUIJING
+      amount: 8
+    3:
+      material_type: slimefun
+      material: YINGMO_YUNMO_HEJIN
+      amount: 8
+    4:
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 4
+    5:
+      material_type: slimefun
+      material: YINGMO_YINGNENG_HEXIN
+      amount: 1
+    6:
+      material_type: slimefun
+      material: YINGMO_YINGLUO_DAOXIAN
+      amount: 4
+    7:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 4
+    8:
+      material_type: slimefun
+      material: ELECTRIC_MOTOR
+      amount: 1
+    9:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 4
+  capacity: 131400
+YINGMO_CAP_ZHONGJI:
+  item_group: YINGMO_ENERGY
+  item:
+    name: '&x&e&8&c&0&f&8绯&x&e&3&c&1&f&6樱&x&d&e&c&3&f&5润&x&d&9&c&4&f&4沫&x&d&4&c&6&f&3电&x&d&0&c&8&f&2容'
+    lore:
+    - '&7绯樱合金封装绵密润沫'
+    - '&7牢牢锁住樱沫交融的能量'
+    - '&7拥有大容量储能空间'
+    - '&7可稳定储备中等电能'
+    - '&7同时供给多台中阶设备，杜绝断电'
+    - '&7能量流转更平稳'
+    - '&x&e&8&c&0&f&8中&x&e&0&c&2&f&7阶&x&d&8&c&4&f&6·&x&d&0&c&6&f&5封&x&c&8&c&8&f&4存&x&c&0&c&a&f&3樱&x&b&8&c&c&f&2沫&x&b&0&c&e&f&1能&x&a&8&d&0&f&0量'
+    - '&8⇨ &e⚡ &71314000 J 可存储'
+    material_type: mc
+    material: PINK_CONCRETE
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: YINGMO_NINGYING_GANG
+      amount: 8
+    2:
+      material_type: slimefun
+      material: YINGMO_QINGMO_JIBAN
+      amount: 8
+    3:
+      material_type: slimefun
+      material: YINGMO_NINGYING_GANG
+      amount: 8
+    4:
+      material_type: slimefun
+      material: YINGMO_YINGNENG_HEXIN
+      amount: 4
+    5:
+      material_type: slimefun
+      material: YINGMO_CAP_CHUJI
+      amount: 1
+    6:
+      material_type: slimefun
+      material: YINGMO_YINGNENG_HEXIN
+      amount: 4
+    7:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 4
+    8:
+      material_type: slimefun
+      material: PROGRAMMABLE_ANDROID
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BLISTERING_INGOT_3
+      amount: 4
+  capacity: 1314000
+YINGMO_CAP_GAOJI:
+  item_group: YINGMO_ENERGY
+  item:
+    name: '&x&a&8&d&0&f&0天&x&b&6&c&7&f&3境&x&c&4&b&e&f&6圣&x&d&3&b&6&f&9沫&x&e&1&a&d&f&c电&x&f&0&a&5&f&f容'
+    lore:
+    - '&7搭载圣樱魂晶与天境净沫'
+    - '&7封存极致浓郁的樱沫本源能量'
+    - '&7拥有超大容量储能上限'
+    - '&7高压工业专属'
+    - '&7可瞬间释放海量电力'
+    - '&7是整套樱沫科技的储能核心'
+    - '&x&a&8&d&0&f&0高&x&b&1&c&a&f&1阶&x&b&a&c&5&f&3·&x&c&3&b&f&f&5封&x&c&c&b&a&f&7存&x&d&5&b&5&f&9樱&x&d&e&a&f&f&b沫&x&e&7&a&a&f&d能&x&f&0&a&5&f&f量'
+    - '&8⇨ &e⚡ &713140000 J 可存储'
+    material_type: mc
+    material: MAGENTA_CONCRETE
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: YINGMO_HUANKONG_MOJIN
+      amount: 8
+    2:
+      material_type: slimefun
+      material: YINGMO_YONGHENG_YINGJING
+      amount: 4
+    3:
+      material_type: slimefun
+      material: YINGMO_HUANKONG_MOJIN
+      amount: 8
+    4:
+      material_type: slimefun
+      material: YINGMO_LUOYING_YUANSHI
+      amount: 4
+    5:
+      material_type: slimefun
+      material: YINGMO_CAP_ZHONGJI
+      amount: 1
+    6:
+      material_type: slimefun
+      material: YINGMO_LUOYING_YUANSHI
+      amount: 4
+    7:
+      material_type: slimefun
+      material: YINGMO_YINGHE_DIANCHI
+      amount: 2
+    8:
+      material_type: slimefun
+      material: NUCLEAR_REACTOR
+      amount: 1
+    9:
+      material_type: slimefun
+      material: PROGRAMMABLE_ANDROID_2
+      amount: 1
+  capacity: 13140000

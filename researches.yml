@@ -1,0 +1,410 @@
+yj_fenjing:
+  id: 660000001
+  name: 樱沫科技 · 樱沫粉晶
+  levelCost: 2
+  items:
+  - YINGMO_FENJING
+  cost: 10
+yj_xianwei:
+  id: 660000002
+  name: 樱沫科技 · 樱花纤维
+  levelCost: 2
+  items:
+  - YINGMO_XIANWEI
+  cost: 10
+yj_jingbai_paomo:
+  id: 660000003
+  name: 樱沫科技 · 净白泡沫
+  levelCost: 2
+  items:
+  - YINGMO_JINGBAI_PAOMO
+  cost: 12
+yj_suijing:
+  id: 660000004
+  name: 樱沫科技 · 樱璃碎晶
+  levelCost: 2
+  items:
+  - YINGMO_SUIJING
+  cost: 12
+yj_shuzhi:
+  id: 660000005
+  name: 樱沫科技 · 樱花树脂
+  levelCost: 2
+  items:
+  - YINGMO_SHUZHI
+  cost: 10
+yj_ningjiao:
+  id: 660000006
+  name: 樱沫科技 · 轻沫凝胶
+  levelCost: 2
+  items:
+  - YINGMO_NINGJIAO
+  cost: 12
+yj_weili:
+  id: 660000007
+  name: 樱沫科技 · 樱风微粒
+  levelCost: 2
+  items:
+  - YINGMO_WEILI
+  cost: 15
+yj_yunmo_hejin:
+  id: 660000008
+  name: 樱沫科技 · 云沫合金
+  levelCost: 2
+  items:
+  - YINGMO_YUNMO_HEJIN
+  cost: 20
+yj_ningying_gang:
+  id: 660000011
+  name: 樱沫科技 · 凝樱钢锭
+  levelCost: 4
+  items:
+  - YINGMO_NINGYING_GANG
+  cost: 25
+yj_huanmo_jingti:
+  id: 660000012
+  name: 樱沫科技 · 幻沫晶体
+  levelCost: 4
+  items:
+  - YINGMO_HUANMO_JINGTI
+  cost: 25
+yj_yingneng_hexin:
+  id: 660000013
+  name: 樱沫科技 · 樱能核心
+  levelCost: 4
+  items:
+  - YINGMO_YINGNENG_HEXIN
+  cost: 30
+yj_fuguang_paomo:
+  id: 660000014
+  name: 樱沫科技 · 浮光泡沫
+  levelCost: 4
+  items:
+  - YINGMO_FUGUANG_PAOMO
+  cost: 20
+yj_feiying_hejin:
+  id: 660000015
+  name: 樱沫科技 · 绯樱合金
+  levelCost: 4
+  items:
+  - YINGMO_FEIYING_HEJIN
+  cost: 30
+yj_xingmo_jiezhi:
+  id: 660000016
+  name: 樱沫科技 · 星沫介质
+  levelCost: 4
+  items:
+  - YINGMO_XINGMO_JIEZHI
+  cost: 28
+yj_yingluo_daoxian:
+  id: 660000017
+  name: 樱沫科技 · 樱络导线
+  levelCost: 4
+  items:
+  - YINGMO_YINGLUO_DAOXIAN
+  cost: 25
+yj_qingmo_jiban:
+  id: 660000018
+  name: 樱沫科技 · 清沫基板
+  levelCost: 4
+  items:
+  - YINGMO_QINGMO_JIBAN
+  cost: 22
+yj_yongheng_yingjing:
+  id: 660000021
+  name: 樱沫科技 · 永恒樱晶
+  levelCost: 8
+  items:
+  - YINGMO_YONGHENG_YINGJING
+  cost: 45
+yj_tianjing_paomo:
+  id: 660000022
+  name: 樱沫科技 · 天境泡沫
+  levelCost: 8
+  items:
+  - YINGMO_TIANJING_PAOMO
+  cost: 40
+yj_yinghun_chen:
+  id: 660000023
+  name: 樱沫科技 · 樱魂尘
+  levelCost: 8
+  items:
+  - YINGMO_YINGHUN_CHEN
+  cost: 42
+yj_huankong_mojin:
+  id: 660000024
+  name: 樱沫科技 · 幻空沫金
+  levelCost: 8
+  items:
+  - YINGMO_HUANKONG_MOJIN
+  cost: 48
+yj_luoying_yuanshi:
+  id: 660000025
+  name: 樱沫科技 · 落樱源石
+  levelCost: 10
+  items:
+  - YINGMO_LUOYING_YUANSHI
+  cost: 50
+yj_chengxin_moyu:
+  id: 660000026
+  name: 樱沫科技 · 澄心沫玉
+  levelCost: 10
+  items:
+  - YINGMO_CHENGXIN_MOYU
+  cost: 55
+yj_gen_chuji:
+  id: 660000051
+  name: 沫沫能源 · 云樱浮沫发电机
+  levelCost: 3
+  items:
+  - YINGMO_GEN_CHUJI
+  cost: 20
+yj_gen_zhongji:
+  id: 660000052
+  name: 沫沫能源 · 绯樱凝沫发电机
+  levelCost: 6
+  items:
+  - YINGMO_GEN_ZHONGJI
+  parent: yj_gen_chuji
+  cost: 35
+yj_gen_gaoji:
+  id: 660000053
+  name: 沫沫能源 · 天境樱沫发电机
+  levelCost: 10
+  items:
+  - YINGMO_GEN_GAOJI
+  parent: yj_gen_zhongji
+  cost: 55
+yj_cap_chuji:
+  id: 660000054
+  name: 沫沫能源 · 电容制作台
+  levelCost: 3
+  items:
+  - YINGMO_CAP_MACHINE
+  cost: 25
+yj_geo:
+  id: 660000102
+  name: 樱沫科技 · GEO矿物探测
+  levelCost: 5
+  items:
+  - YINGMO_GEO_QINGMO_XU
+  parent: yj_yunmo_hejin
+  cost: 15
+yj_bee_net:
+  id: 660000082
+  name: 沫蜂计划 · 捕蜂网
+  levelCost: 8
+  items:
+  - YINGMO_BEE_NET
+  parent: yj_geo
+  cost: 12
+yj_bee_fanyuji:
+  id: 660000084
+  name: 沫蜂计划 · 繁育机
+  levelCost: 16
+  items:
+  - YINGMO_BEE_FANYUJI
+  - YINGMO_BEE_BOX_1_1
+  - YINGMO_BEE_BOX_1_2
+  - YINGMO_BEE_BOX_1_3
+  - YINGMO_BEE_BOX_1_4
+  - YINGMO_BEE_BOX_2_1
+  - YINGMO_BEE_BOX_2_2
+  - YINGMO_BEE_BOX_2_3
+  - YINGMO_BEE_BOX_2_4
+  - YINGMO_BEE_BOX_3_1
+  - YINGMO_BEE_BOX_3_2
+  - YINGMO_BEE_BOX_3_3
+  - YINGMO_BEE_BOX_3_4
+  parent: yj_bee_net
+  cost: 18
+yj_geo_qingmo:
+  id: 660000090
+  name: 樱沫材料 · GEO轻沫絮
+  levelCost: 5
+  items:
+  - YINGMO_GEO_QINGMO_XU
+  cost: 18
+yj_geo_high:
+  id: 660000091
+  name: 樱沫材料 · GEO高级矿脉
+  levelCost: 8
+  items:
+  - YINGMO_GEO_YINGNING_QUANLU
+  - YINGMO_GEO_HUANMO_YUNHE
+  parent: yj_geo_qingmo
+  cost: 22
+yj_moshi_ji:
+  id: 660000120
+  name: 樱沫工坊 · 沫石机
+  levelCost: 3
+  items:
+  - YINGMO_MOSHI_JI
+  parent: yj_yunmo_hejin
+  cost: 15
+yj_fenjingshi:
+  id: 660000130
+  name: 樱沫工坊 · 粉晶提取机
+  levelCost: 3
+  items:
+  parent: yj_fenjing
+  cost: 18
+yj_xianweiji:
+  id: 660000131
+  name: 樱沫工坊 · 纤维压制机
+  levelCost: 3
+  items:
+  parent: yj_xianwei
+  cost: 18
+yj_shuzhiji:
+  id: 660000132
+  name: 樱沫工坊 · 树脂凝固机
+  levelCost: 3
+  items:
+  parent: yj_shuzhi
+  cost: 16
+yj_paomoji:
+  id: 660000133
+  name: 樱沫工坊 · 泡沫生成机
+  levelCost: 3
+  items:
+  parent: yj_jingbai_paomo
+  cost: 16
+yj_suijingji:
+  id: 660000134
+  name: 樱沫工坊 · 碎晶切割机
+  levelCost: 3
+  items:
+  parent: yj_suijing
+  cost: 20
+yj_ningjiaoji:
+  id: 660000135
+  name: 樱沫工坊 · 凝胶合成机
+  levelCost: 3
+  items:
+  parent: yj_ningjiao
+  cost: 20
+yj_weiliji:
+  id: 660000136
+  name: 樱沫工坊 · 粒子凝聚机
+  levelCost: 3
+  items:
+  parent: yj_weili
+  cost: 22
+yj_hejinji:
+  id: 660000140
+  name: 樱沫工坊 · 云沫合金机
+  levelCost: 5
+  items:
+  parent: yj_yunmo_hejin
+  cost: 25
+yj_huanmoji:
+  id: 660000141
+  name: 樱沫工坊 · 幻沫晶体机
+  levelCost: 5
+  items:
+  parent: yj_huanmo_jingti
+  cost: 28
+yj_daoxianji:
+  id: 660000142
+  name: 樱沫工坊 · 樱络导线机
+  levelCost: 5
+  items:
+  parent: yj_yingluo_daoxian
+  cost: 25
+yj_lingjianji_base:
+  id: 660000150
+  name: 樱沫工坊 · 基础生成器
+  levelCost: 4
+  items:
+  parent: yj_yunmo_hejin
+  cost: 20
+yj_lingjianji_adv:
+  id: 660000151
+  name: 樱沫工坊 · 进阶生成器
+  levelCost: 6
+  items:
+  parent: yj_lingjianji_base
+  cost: 35
+yj_lingjianji_high:
+  id: 660000152
+  name: 樱沫工坊 · 高级生成器
+  levelCost: 8
+  items:
+  parent: yj_lingjianji_adv
+  cost: 50
+yj_xiluangtai:
+  id: 660000160
+  name: 樱沫工坊 · 樱落洗矿台
+  levelCost: 5
+  items:
+  - YINGMO_XILUANGTAI
+  parent: yj_yunmo_hejin
+  cost: 22
+yj_nianfenji:
+  id: 660000161
+  name: 樱沫工坊 · 花沫碾粉机
+  levelCost: 6
+  items:
+  - YINGMO_NIANFENJI
+  parent: yj_xiluangtai
+  cost: 24
+yj_yongdongji:
+  id: 660000162
+  name: 樱沫工坊 · 冰沫永冻机
+  levelCost: 5
+  items:
+  - YINGMO_YONGDONGJI
+  parent: yj_yunmo_hejin
+  cost: 26
+yj_xiangbianyi:
+  id: 660000163
+  name: 樱沫工坊 · 樱冰相变仪
+  levelCost: 6
+  items:
+  - YINGMO_XIANGBIANYI
+  parent: yj_yongdongji
+  cost: 28
+yj_shanbianlu:
+  id: 660000164
+  name: 樱沫工坊 · 樱岩嬗变炉
+  levelCost: 10
+  items:
+  - YINGMO_SHANBIANLU
+  parent: yj_xiangbianyi
+  cost: 35
+yj_zhuringlu:
+  id: 660000168
+  name: 樱沫工坊 · 樱焰铸锭炉
+  levelCost: 5
+  items:
+  parent: yj_yunmo_hejin
+  cost: 30
+yj_hejinduanyeta:
+  id: 660000169
+  name: 樱沫工坊 · 花沫合金锻冶台
+  levelCost: 8
+  items:
+  parent: yj_zhuringlu
+  cost: 40
+yj_zishengkuangfenji:
+  id: 660000165
+  name: 樱沫工坊 · 自生矿粉机
+  levelCost: 5
+  items:
+  parent: yj_yunmo_hejin
+  cost: 25
+yj_dankuangji:
+  id: 660000166
+  name: 樱沫工坊 · 单矿生成器
+  levelCost: 4
+  items:
+  parent: yj_zishengkuangfenji
+  cost: 30
+yj_wanxiangji:
+  id: 660000167
+  name: 樱沫工坊 · 万象矿源机
+  levelCost: 12
+  items:
+  parent: yj_lingjianji_high
+  cost: 45
